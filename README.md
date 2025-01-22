@@ -1,4 +1,5 @@
 # AKTU-college-and-Program-predictor
+https://aadi1191.pythonanywhere.com/
 
 
 UPTAC/AKTU College/Program Predictor for 2024 Counselling based on 2023 admissions
